@@ -383,7 +383,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "../models/macropad.wrl"
+      "vrml": "../models/front_panel.wrl"
     },
     "page_layout_descr_file": ""
   },
