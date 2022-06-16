@@ -2005,7 +2005,7 @@
       (net 40 "unconnected-(U1-Pad40)") (pinfunction "VBUS") (pintype "power_in") (tstamp 3f08d692-f522-4f82-99d0-64475027a9fb))
     (pad "40" smd rect (at 8.89 24.13 90) (size 3.5 1.7) (drill (offset 0.9 0)) (layers "B.Cu" "B.Mask")
       (net 40 "unconnected-(U1-Pad40)") (pinfunction "VBUS") (pintype "power_in") (tstamp 579c91f1-6fa5-4eb3-9624-e1cd6b092ad0))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/Pico.wrl"
+    (model "${KIPRJMOD}/../models/Pico.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2406,7 +2406,7 @@
   (dimension (type aligned) (layer "Edge.Cuts") (tstamp dcc3762c-0219-4451-b31c-a9a6940845ad)
     (pts (xy 127 130.175) (xy 127 23.495))
     (height 10.5)
-    (gr_text "106,6800 mm" (at 136.35 76.835 90) (layer "Edge.Cuts") (tstamp cc07cf85-83d1-4fbe-b63d-d7bc348ccac1)
+    (gr_text "106,6800 mm" (at 136.35 76.835 90) (layer "Edge.Cuts") (tstamp dcc3762c-0219-4451-b31c-a9a6940845ad)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
