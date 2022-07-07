@@ -11,7 +11,6 @@ from kmk.scanners import DiodeOrientation
 from conf import screen_type, keymap, ScreenType
 
 keyboard = KMKKeyboard()
-
 keyboard.col_pins = (
     board.GP6,   # COL0
     board.GP12,  # COL1
@@ -24,9 +23,7 @@ keyboard.row_pins = (
     board.GP8,  # ROW2
     board.GP7,  # ROW3
 )
-
 keyboard.diode_orientation = DiodeOrientation.ROW2COL
-
 keyboard.keymap = keymap
 
 
@@ -47,7 +44,7 @@ elif screen_type == ScreenType.I2C:
     display_bus = displayio.I2CDisplay(i2c_bus=i2c, device_address=0x3C)
     rotation_angle = 180
 
-WIDTH = 128
+WIDTH = 132
 HEIGHT = 64
 BORDER = 10
 
