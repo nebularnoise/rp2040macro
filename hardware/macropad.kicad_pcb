@@ -215,12 +215,12 @@
       (net 1 "ROW1") (pinfunction "1") (pintype "passive") (tstamp 411c9380-44af-4749-a623-50ccb8b6f8b5))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 2 "Net-(D1-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 741ccdb1-e761-4e56-94aa-28ba309f0ae4))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -333,12 +333,12 @@
       (net 41 "ROW0") (pinfunction "1") (pintype "passive") (tstamp 5ee90842-6963-443b-b978-e68c70dd5e1c))
     (pad "2" smd roundrect locked (at 5.842 -5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 42 "COL0") (pinfunction "2") (pintype "passive") (tstamp 64ec5e27-8b7e-4c9f-9cc6-acddf71ff4f3))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -425,12 +425,12 @@
       (net 3 "ROW2") (pinfunction "1") (pintype "passive") (tstamp 623c1ffd-ade4-4638-8ff3-58ab9c8a8a1e))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 4 "Net-(D2-Pad2)") (pinfunction "2") (pintype "passive") (tstamp b0cc18b2-7af8-4c68-a0bd-801832ec7d20))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -517,12 +517,12 @@
       (net 5 "ROW3") (pinfunction "1") (pintype "passive") (tstamp 3aad8fe2-619a-4168-89f2-501a3e5d9940))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 9 "Net-(D6-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 65a820cd-2aff-4c6e-adbc-56d4402021c6))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -581,9 +581,9 @@
       (net 32 "SCREEN_COMMAND") (pinfunction "Pin_6") (pintype "passive") (tstamp b064275e-ed01-4046-afa4-292992492b55))
     (pad "7" thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask)
       (net 33 "SPI0_CS") (pinfunction "Pin_7") (pintype "passive") (tstamp bbda6f95-95aa-494d-afe4-3cf6713e6513))
-    (model "${KIPRJMOD}/../models/screen-Part.wrl"
+    (model "${KIPRJMOD}/../models/screen-Part.step"
       (offset (xyz 0 -15.25 2))
-      (scale (xyz 0.393 0.393 0.393))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -720,12 +720,12 @@
       (net 1 "ROW1") (pinfunction "1") (pintype "passive") (tstamp 4354f43b-f0d5-4613-a95c-1e60b9fc5be7))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 10 "Net-(D7-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 8525be0e-6301-4b6e-baa9-5cbfcbb98106))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -838,12 +838,12 @@
       (net 3 "ROW2") (pinfunction "1") (pintype "passive") (tstamp de9b736d-adf3-4f92-982f-98dbca85c900))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 11 "Net-(D8-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 1fddb28f-4daa-46a3-9b5a-bc09722fc7a6))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -930,12 +930,12 @@
       (net 5 "ROW3") (pinfunction "1") (pintype "passive") (tstamp a9abfb7b-0e78-459d-8ac2-048a8a589280))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 6 "Net-(D3-Pad2)") (pinfunction "2") (pintype "passive") (tstamp a2fb4191-6fb9-4893-a161-7c4b10fe3513))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1022,12 +1022,12 @@
       (net 1 "ROW1") (pinfunction "1") (pintype "passive") (tstamp d0de23f0-13b7-4846-9c98-838c27259315))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 7 "Net-(D4-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 77461f12-b104-4ea3-a2f8-9274e7027474))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1164,12 +1164,12 @@
       (net 3 "ROW2") (pinfunction "1") (pintype "passive") (tstamp d7b1d5b2-0806-4124-ab7b-e05e64896bfb))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 8 "Net-(D5-Pad2)") (pinfunction "2") (pintype "passive") (tstamp a1bd7d0b-4ad9-4ebf-b5ce-77ed1d808fea))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1256,12 +1256,12 @@
       (net 5 "ROW3") (pinfunction "1") (pintype "passive") (tstamp 11823768-bb46-43ad-907e-09d89a56b3a2))
     (pad "2" smd roundrect locked (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 12 "Net-(D9-Pad2)") (pinfunction "2") (pintype "passive") (tstamp b1986267-337c-419b-b185-60f0f1d5ea43))
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1965,10 +1965,10 @@
       (net 40 "unconnected-(U1-Pad40)") (pinfunction "VBUS") (pintype "power_in") (tstamp 3f08d692-f522-4f82-99d0-64475027a9fb))
     (pad "40" smd rect (at 8.89 24.13 90) (size 3.5 1.7) (drill (offset 0.9 0)) (layers "B.Cu" "B.Mask")
       (net 40 "unconnected-(U1-Pad40)") (pinfunction "VBUS") (pintype "power_in") (tstamp 579c91f1-6fa5-4eb3-9624-e1cd6b092ad0))
-    (model "${KIPRJMOD}/../models/Pico.wrl"
+    (model "${KIPRJMOD}/../models/Pico.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
